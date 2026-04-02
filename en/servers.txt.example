@@ -1,0 +1,5 @@
+# Server list, one host name or FQDN per line
+# Lines starting with # are ignored
+SRV-DC-01
+SRV-FS-01
+# SRV-APP-01
