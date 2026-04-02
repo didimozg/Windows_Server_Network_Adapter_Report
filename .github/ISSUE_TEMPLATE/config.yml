@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: English documentation
+    url: https://github.com/didimozg/Windows_Server_Network_Adapter_Report/blob/main/en/README.md
+    about: Start here for setup, usage examples, and report descriptions.
+  - name: Русская документация
+    url: https://github.com/didimozg/Windows_Server_Network_Adapter_Report/blob/main/ru/README.md
+    about: Здесь можно посмотреть описание, примеры запуска и формат отчётов.
